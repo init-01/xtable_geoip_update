@@ -1,0 +1,9 @@
+/.vscode
+/BE
+/GeoLite2-Country-CSV_20201110.zip
+/LE
+/db.sha256
+/dbupdate.profile
+/geoliteupdate.py.lprof
+/pton.c
+/pton.o
